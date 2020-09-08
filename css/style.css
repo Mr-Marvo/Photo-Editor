@@ -1,0 +1,62 @@
+*{
+	margin: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	box-sizing: border-box;
+}
+
+html{
+	font-size: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+body{
+	background: url("../images/undraw_book_lover_mkck.svg") 50% 20% / 50% no-repeat;
+	font-family: "Roboto Cn", sans-serif;
+}
+
+.main{
+	background-color: rgba(0, 0, 0,0.8);
+}
+
+div {
+	
+    color: rgb(255, 255, 255);
+    cursor: text;
+    font-family: Montserrat, Lato, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: proportional-nums;
+    font-weight: 400;
+    line-height: 21.5385px;
+    letter-spacing: normal;
+    text-align: start;
+    text-decoration: none solid rgb(34, 34, 34);
+    text-indent: 0px;
+    text-rendering: auto;
+    word-break: normal;
+    overflow-wrap: break-word;
+	word-spacing: 0px;
+	
+}
+
+h1,h2{
+	text-align: center;
+}
+.logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.footer{
+	height: 50px;
+	background-color:rgba(0, 0, 0,0.8);
+	padding-top: 10px;
+	color: blue;
+}
